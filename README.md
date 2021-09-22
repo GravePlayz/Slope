@@ -1,2 +1,2 @@
-# Slope-Clone-
-This is a slope clone, not made by me, basically source code copied. 
+# slope
+A clone of the original slope game by Y8
